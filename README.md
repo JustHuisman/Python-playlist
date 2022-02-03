@@ -1,5 +1,5 @@
 # Python-playlist
-A simple program which imports a file to make a playlist and insert it into the Chinook database
+A simple program which imports a file to make a playlist and insert it into the Chinook database.
 
 - Download the Chinook database file from https://www.sqlitetutorial.net/sqlite-sample-database/.
 - Get a database program for SQlite, for example from https://sqlitebrowser.org/.
