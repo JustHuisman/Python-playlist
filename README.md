@@ -9,6 +9,6 @@ A simple program which imports a file to make a playlist and insert it into the 
 
 # What it does
 It will read out a file line by line and look for words in it that corresponds to track names from the database. 
-If there are 0 tracks found on a line, it will display an error at the end of the program.
-If there is 1 track found, it will be added to the playlist. 
-If there are more tracks found, it will display a selection menu and then adding your choice to the playlist.
+- If there are 0 tracks found on a line, it will display an error at the end of the program.
+- If there is 1 track found, it will be added to the playlist. 
+- If there are more tracks found, it will display a selection menu and then adding your choice to the playlist.
